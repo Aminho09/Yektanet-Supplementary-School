@@ -34,4 +34,4 @@ Details of each feature:
   
    * The program stores the data of users in this module using DICT data structure. The keys of the structure are the ID of the users and the values of it are the mapped user objects
    * Then, it prints the User Object
-   * Printing the User object uses the dunder method of User Object called __STR__().
+   * Printing the User object uses the dunder method of User Object called \_\_STR__().
