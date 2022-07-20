@@ -36,3 +36,17 @@ Details of each feature:
    * The program stores the data of users in this module using DICT data structure. The keys of the structure are the ID of the users and the values of it are the mapped user objects
    * Then, it prints the User Object
    * Printing the User object uses the dunder method of User Object called \_\_STR__().
+
+ * Aggregate on skill
+
+   Yektanet's HR team needs the functionality to see which people have a specific skill.
+   The user skills have already stored in an array in the User Object which was splitted by dash (-) in the CSV file.
+   So in this functionality user enters an skill (e.g Python) and you should print all User Objects having "Python" skills.
+   
+ * Setting new data 
+   
+   HRs should be able to insert new data into the system. When new data of a user is inserted, other functionalities supports it and it appends to the CSV file.
+ 
+ * Merging with other CSV
+   
+   Another way of inserting new data is by merging a CSV whose path is provided by HR in input to the CSV we already have.
