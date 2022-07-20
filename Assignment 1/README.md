@@ -27,3 +27,11 @@ Details of each feature:
     * Address cell of the CSV file may be more than 80 characters so the program breaks it into two or more rows and doesn't let any of the printed row cells get bigger than 80 characters.
 
 ![picture alt](https://github.com/Aminho09/Yektanet-Supplementary-School/blob/main/Assignment%201/Images/Example%20Table.jpg)
+
+ * Searching by ID 
+
+  The program contains a module called MemoryClient. With this module, we can implement the search funcitonality
+  
+   * The program stores the data of users in this module using DICT data structure. The keys of the structure are the ID of the users and the values of it are the mapped user objects
+   * Then, it prints the User Object
+   * Printing the User object uses the dunder method of User Object called __STR__().
