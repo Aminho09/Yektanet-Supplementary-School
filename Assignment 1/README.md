@@ -19,7 +19,7 @@ The Program Supports the following features:
  4. Setting new data on CSV file 
  5. Merging with other CSV file
 
-###Details of each feature:###
+### Details of each feature:
  * Printing
 
    It prints the given CSV in the terminal like the example.
