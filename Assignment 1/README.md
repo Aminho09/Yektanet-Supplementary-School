@@ -31,7 +31,7 @@ Details of each feature:
 
  * Searching by ID 
 
-  The program contains a module called MemoryClient. With this module, we can implement the search funcitonality
+   The program contains a module called MemoryClient. With this module, we can implement the search funcitonality
   
    * The program stores the data of users in this module using DICT data structure. The keys of the structure are the ID of the users and the values of it are the mapped user objects
    * Then, it prints the User Object
