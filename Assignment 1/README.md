@@ -22,5 +22,6 @@ The Program Supports the following features:
 Details of each feature:
  * Printing
    It prints the given CSV in the terminal like the example.
+   
     * All contents of a cell are in the middle of the cell
     * Address cell of the CSV file may be more than 80 characters so the program breaks it into two or more rows and doesn't let any of the printed row cells get bigger than 80 characters.
