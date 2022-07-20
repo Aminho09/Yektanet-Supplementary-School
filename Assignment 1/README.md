@@ -21,6 +21,7 @@ The Program Supports the following features:
 
 Details of each feature:
  * Printing
+
    It prints the given CSV in the terminal like the example.
    
     * All contents of a cell are in the middle of the cell
